@@ -1,5 +1,7 @@
 # Minimal Repro for a bug for runtime component in Windows SDK 26100
 
+# Fixed as of may 2026: https://discord.com/channels/372137812037730304/580484470877061120/1508126214802378873
+
 ## Pre-requisites
 1. Visual Studio 2022
 	- UWP C++ workload
