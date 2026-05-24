@@ -1,0 +1,8 @@
+namespace RuntimeComponent2
+{
+    [default_interface]
+    runtimeclass Template : Windows.UI.Xaml.ResourceDictionary
+    {
+        Template();
+    }
+}
